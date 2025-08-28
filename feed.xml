@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Business News Aggregator</title>
+  <description>Regulatory and business updates from various government sources</description>
+  <link>https://[your-username].github.io/business-news-aggregator/</link>
+  <lastBuildDate>Thu, 28 Aug 2025 10:00:00 GMT</lastBuildDate>
+  
+  <item>
+    <title>Regulatory Resolution: TechCorp Inc. Compliance Matter</title>
+    <description>Federal regulators announced the resolution of a compliance matter involving TechCorp Inc. related to disclosure practices. The company has agreed to enhanced oversight procedures and will pay a settlement of $3.2 million to resolve the matter without admitting wrongdoing.</description>
+    <pubDate>Thu, 28 Aug 2025 15:30:00 GMT</pubDate>
+    <link>https://www.sec.gov/news/press-release/2025-demo</link>
+  </item>
+  
+  <item>
+    <title>DataFlow Systems Settles Disclosure Investigation</title>
+    <description>Regulatory authorities have concluded their investigation into DataFlow Systems Inc. regarding information security disclosure practices. The company will implement additional compliance measures and pay $1.8 million to settle the investigation. The resolution covers disclosure procedures related to data security incidents.</description>
+    <pubDate>Wed, 27 Aug 2025 11:15:00 GMT</pubDate>
+    <link>https://www.sec.gov/news/press-release/2025-demo-2</link>
+  </item>
+  
+  <item>
+    <title>Manufacturing Corp Resolves Export Control Review</title>
+    <description>A leading manufacturing company has reached resolution with trade regulators regarding export control procedures. The review focused on documentation and reporting practices for international sales. Terms include process improvements and a compliance enhancement payment of $850,000.</description>
+    <pubDate>Tue, 26 Aug 2025 14:45:00 GMT</pubDate>
+    <link>https://www.bis.doc.gov/news/2025-demo</link>
+  </item>
+</channel>
+</rss>

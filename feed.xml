@@ -26,5 +26,12 @@
     <pubDate>Tue, 26 Aug 2025 14:45:00 GMT</pubDate>
     <link>https://www.bis.doc.gov/news/2025-demo</link>
   </item>
+    <item>
+        <title>Whatever Company - Regulatory Resolution</title>
+        <description>Compliance matter involving securities fraud. Settlement: 1m $. Details under review.</description>
+        <pubDate>Thu, 28 Aug 2025 12:22:55 GMT</pubDate>
+        <guid>enforcement-1756383775950</guid>
+        <category>enforcement</category>
+    </item>
 </channel>
 </rss>

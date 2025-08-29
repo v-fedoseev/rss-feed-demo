@@ -33,5 +33,12 @@
         <guid>enforcement-1756383775950</guid>
         <category>enforcement</category>
     </item>
+    <item>
+        <title>Whatever Company - Regulatory Resolution</title>
+        <description>Compliance matter involving securities fraud. Settlement: 1m $. Whatever company did something bad</description>
+        <pubDate>Fri, 29 Aug 2025 14:57:41 GMT</pubDate>
+        <guid>enforcement-1756479461643</guid>
+        <category>enforcement</category>
+    </item>
 </channel>
 </rss>

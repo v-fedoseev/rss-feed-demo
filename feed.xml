@@ -88,5 +88,14 @@ Management Responsibility Violations: Lack of adequate quality management system
             <pubDate>Sat, 30 Aug 2025 13:03:29 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[The Securities and Exchange Commission today announced settled charges against DataFlow Systems Inc]]></title>
+            <link>https://example.com/demo/demo-1756564900608</link>
+            <guid isPermaLink="false">demo-1756564900608</guid>
+            <description><![CDATA[The Securities and Exchange Commission today announced settled charges against DataFlow Systems Inc. (NYSE: DFS) for inadequate cybersecurity risk disclosure and internal control deficiencies related to a 2024 data breach affecting customer financial records. The company agreed to pay a $2.8 million civil penalty and implement comprehensive cybersecurity governance reforms within 180 days. DataFlow Systems, which provides cloud-based financial services to over 1,200 community banks and credit unions nationwide, failed to properly disclose material cybersecurity incidents and maintain adequate data protection controls as required under federal securities laws. The SEC&#39;s investigation revealed that senior management was aware of significant security vulnerabilities for eight months before the breach but did not implement adequate remedial measures or provide timely disclosure to investors. Financial institutions using DataFlow&#39;s services may need to reassess their vendor risk management programs, data security protocols, and regulatory compliance procedures in light of this enforcement action.]]></description>
+            <pubDate>Sat, 30 Aug 2025 14:41:40 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

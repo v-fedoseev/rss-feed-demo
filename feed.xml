@@ -97,5 +97,14 @@ Management Responsibility Violations: Lack of adequate quality management system
             <pubDate>Sat, 30 Aug 2025 14:41:40 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[https://www]]></title>
+            <link>https://example.com/demo/demo-1756574705357</link>
+            <guid isPermaLink="false">demo-1756574705357</guid>
+            <description><![CDATA[https://www.sec.gov/newsroom/press-releases/2025-107-founder-owner-washington-based-water-machine-manufacturer-two-companies-charged-275-million-fraud]]></description>
+            <pubDate>Sat, 30 Aug 2025 17:25:05 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

@@ -62,5 +62,20 @@ Management Responsibility Violations: Lack of adequate quality management system
             <pubDate>Sat, 30 Aug 2025 10:23:30 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[The U]]></title>
+            <link>https://example.com/demo/demo-1756555502438</link>
+            <guid isPermaLink="false">demo-1756555502438</guid>
+            <description><![CDATA[The U.S. Food and Drug Administration (FDA) today issued a Warning Letter to MedTech Solutions Inc. (Nasdaq: MEDS) following an inspection at their Austin, Texas manufacturing facility that revealed significant violations of Current Good Manufacturing Practice (cGMP) regulations for medical devices.
+KEY VIOLATIONS IDENTIFIED
+The FDA inspection, conducted from July 15-26, 2025, identified multiple critical deficiencies:
+
+Quality System Failures: Inadequate design controls for Class II cardiac monitoring devices, with insufficient verification and validation protocols
+Corrective Action Deficiencies: Failure to investigate and address recurring device malfunction reports affecting over 2,300 units distributed nationwide
+Management Responsibility Violations: Lack of adequate quality management system oversight and insufficient resources allocated to quality assurance operations]]></description>
+            <pubDate>Sat, 30 Aug 2025 12:05:02 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

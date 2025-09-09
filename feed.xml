@@ -129,5 +129,14 @@ The SEC’s investigation was conducted by Heather L. Shaffer, Ming Ming Yang, a
             <pubDate>Sat, 30 Aug 2025 17:54:43 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1757439802499</link>
+            <guid isPermaLink="false">demo-1757439802499</guid>
+            <description><![CDATA[test test testtest test testtest test testtest test testtest test testtest test testtest test testtest test testtest test test]]></description>
+            <pubDate>Tue, 09 Sep 2025 17:43:22 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

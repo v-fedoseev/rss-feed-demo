@@ -81,5 +81,40 @@ press@sec.gov
             <pubDate>Tue, 16 Sep 2025 17:59:12 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1758049928913</link>
+            <guid isPermaLink="false">demo-1758049928913</guid>
+            <description><![CDATA[FOR IMMEDIATE RELEASE
+U.S. Securities and Exchange Commission
+Washington, D.C.
+
+SEC Announces $12.5 Million Fine Against MidWest Financial Services for Systemic Compliance Failures
+
+The Securities and Exchange Commission today announced a significant enforcement action against MidWest Financial Services for repeated violations of reporting and risk management protocols.
+
+Specific violations include:
+- Failure to maintain adequate internal control documentation
+- Incomplete quarterly risk assessment submissions
+- Multiple instances of delayed material event disclosures
+
+The $12.5 million penalty includes:
+- $8.2 million in monetary sanctions
+- Mandatory third-party compliance monitoring
+- Required implementation of enhanced compliance training programs
+
+SEC Enforcement Director Elena Rodriguez stated, &quot;These actions demonstrate our commitment to holding financial institutions accountable for maintaining rigorous compliance standards that protect investor interests.&quot;
+
+MidWest Financial Services must complete comprehensive remediation within 180 days and submit quarterly progress reports to SEC regulators.
+
+The enforcement action takes effect immediately.
+
+Contact:
+SEC Office of Public Affairs
+(202) 555-4872]]></description>
+            <pubDate>Tue, 16 Sep 2025 19:12:08 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

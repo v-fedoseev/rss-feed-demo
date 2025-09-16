@@ -116,5 +116,45 @@ SEC Office of Public Affairs
             <pubDate>Tue, 16 Sep 2025 19:12:08 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1758053525075</link>
+            <guid isPermaLink="false">demo-1758053525075</guid>
+            <description><![CDATA[REGULATORY ENFORCEMENT ACTION PRESS RELEASE
+
+FOR IMMEDIATE RELEASE
+U.S. Securities and Exchange Commission
+Washington, D.C.
+
+SEC Announces $12.5 Million Penalty Against FinTech Solutions Inc. for Systemic AML Compliance Failures
+
+The Securities and Exchange Commission today announced a significant enforcement action against FinTech Solutions Inc. for persistent anti-money laundering (AML) compliance violations spanning 2019-2022.
+
+Key Details:
+- Total Monetary Penalty: $12.5 Million
+- Specific Violations: Failure to maintain adequate customer due diligence protocols
+- Period of Investigation: January 2019 - December 2022
+- Compliance Deficiencies: Inadequate transaction monitoring systems
+
+SEC Enforcement Director Marcus Reynolds stated, &quot;This action underscores our commitment to ensuring financial institutions maintain rigorous compliance infrastructure and proactively detect potential financial crimes.&quot;
+
+FinTech Solutions must:
+1. Pay the $12.5 Million penalty within 30 days
+2. Implement comprehensive third-party compliance audit
+3. Develop enhanced AML monitoring framework
+4. Submit quarterly compliance progress reports
+
+The enforcement action highlights increasing regulatory scrutiny of financial technology companies&#39; risk management practices.
+
+Contact:
+SEC Office of Public Affairs
+(202) 555-8732
+press@sec.gov
+
+###]]></description>
+            <pubDate>Tue, 16 Sep 2025 20:12:05 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

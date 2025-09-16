@@ -40,5 +40,46 @@
         <guid>enforcement-1756479461643</guid>
         <category>enforcement</category>
     </item>
-</channel>
+
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1758045552106</link>
+            <guid isPermaLink="false">demo-1758045552106</guid>
+            <description><![CDATA[PRESS RELEASE
+For Immediate Release
+Financial Regulatory Commission
+September 15, 2023
+
+SEC Announces $12.5 Million Penalty Against TechNova Solutions for Compliance Violations
+
+Washington, D.C. - The Securities and Exchange Commission (SEC) has levied a $12.5 million enforcement action against TechNova Solutions Inc. for systematic failures in financial reporting and internal control mechanisms.
+
+Key Details:
+- Violation Type: Material misstatement of financial controls
+- Period of Investigation: 2020-2022
+- Specific Findings: Inadequate risk management and non-transparent accounting practices
+
+The enforcement action stems from a comprehensive audit revealing multiple instances of non-compliance with Sarbanes-Oxley Act reporting requirements. TechNova must implement comprehensive remediation measures, including:
+
+1. Independent third-party compliance audit
+2. Enhanced internal control infrastructure
+3. Mandatory executive compliance training
+4. Quarterly reporting to SEC oversight committee
+
+&quot;These actions demonstrate our commitment to maintaining market integrity and protecting investor interests,&quot; said Elena Rodriguez, SEC Enforcement Division Director.
+
+TechNova&#39;s stock price declined 4.3% following the announcement, reflecting market sensitivity to regulatory actions.
+
+The company has 30 days to contest the findings or implement the prescribed corrective measures.
+
+###
+
+Contact:
+SEC Media Relations
+press@sec.gov
+(202) 555-4321]]></description>
+            <pubDate>Tue, 16 Sep 2025 17:59:12 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
+    </channel>
 </rss>

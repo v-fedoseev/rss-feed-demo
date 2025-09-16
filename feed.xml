@@ -149,5 +149,40 @@ wwwwwwwwwwwwwwwwww. Test test test]]></description>
             <pubDate>Mon, 15 Sep 2025 08:38:46 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1758014675952</link>
+            <guid isPermaLink="false">demo-1758014675952</guid>
+            <description><![CDATA[March 15, 2024
+
+SEC Initiates Investigation into McDonald&#39;s Corporation Financial Reporting Practices
+
+Washington, D.C. - The Securities and Exchange Commission (SEC) has launched a formal investigation into potential financial reporting irregularities at McDonald&#39;s Corporation, focusing on potential revenue recognition and franchise accounting discrepancies.
+
+Key Details:
+- Investigation targets potential systematic financial misstatements in franchise revenue reporting
+- Preliminary findings suggest potential manipulation of inter-company financial transfers
+- SEC Enforcement Division has requested comprehensive financial documentation dating back three fiscal years
+
+Specific Areas of Scrutiny:
+1. Franchise fee recognition protocols
+2. Intercompany financial transaction transparency
+3. Potential deliberate misclassification of revenue streams
+
+McDonald&#39;s Corporation has been directed to provide comprehensive financial records within 30 days and cooperate fully with the investigation. Potential penalties could include significant monetary fines and mandatory external financial audits.
+
+The company&#39;s stock experienced immediate downward pressure, dropping 4.2% following the announcement.
+
+SEC Enforcement Director Elena Rodriguez stated, &quot;We are committed to maintaining the highest standards of financial transparency and accountability in corporate reporting.&quot;
+
+McDonald&#39;s corporate communications team has acknowledged receipt of the investigation notice and pledged full cooperation.
+
+This investigation represents a significant compliance risk assessment opportunity for financial and legal consulting firms specializing in corporate financial governance.
+
+END OF PRESS RELEASE]]></description>
+            <pubDate>Tue, 16 Sep 2025 09:24:35 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

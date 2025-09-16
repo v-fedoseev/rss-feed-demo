@@ -184,5 +184,46 @@ END OF PRESS RELEASE]]></description>
             <pubDate>Tue, 16 Sep 2025 09:24:35 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1758027757062</link>
+            <guid isPermaLink="false">demo-1758027757062</guid>
+            <description><![CDATA[PRESS RELEASE
+Federal Trade Commission (FTC)
+Immediate Release
+April 15, 2024
+
+FTC Announces Enforcement Action Against Tesla, Inc. for Consumer Data Privacy Violations
+
+Washington, D.C. - The Federal Trade Commission (FTC) has initiated a comprehensive enforcement action against Tesla, Inc. for alleged systematic violations of consumer data protection regulations and privacy standards.
+
+Key Details:
+- Investigation Scope: Unauthorized collection and potential misuse of customer vehicle tracking and personal information
+- Potential Fine: Estimated $275 million in civil penalties
+- Specific Violations: Inadequate data anonymization, insufficient consumer consent protocols
+
+The FTC alleges that Tesla failed to implement robust data protection mechanisms across its connected vehicle ecosystem, potentially exposing sensitive consumer information to unauthorized access and misuse.
+
+Acting FTC Chair Sarah Rodriguez stated, &quot;This action underscores our commitment to protecting consumer privacy in emerging technology sectors, particularly within connected automotive platforms.&quot;
+
+Recommended Actions:
+- Tesla must undergo comprehensive third-party privacy audits
+- Implement enhanced data anonymization protocols
+- Develop transparent consumer consent frameworks
+
+The enforcement action requires Tesla to:
+1. Pay substantial monetary penalties
+2. Submit detailed compliance remediation plans
+3. Submit to ongoing FTC monitoring for a minimum of 5 years
+
+Tesla has 30 days to respond formally to the FTC&#39;s findings.
+
+For more information: www.ftc.gov/enforcement/tesla-action
+
+###]]></description>
+            <pubDate>Tue, 16 Sep 2025 13:02:37 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

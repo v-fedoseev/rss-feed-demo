@@ -156,5 +156,50 @@ press@sec.gov
             <pubDate>Tue, 16 Sep 2025 20:12:05 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1758976903159</link>
+            <guid isPermaLink="false">demo-1758976903159</guid>
+            <description><![CDATA[PRESS RELEASE
+U.S. Securities and Exchange Commission
+FOR IMMEDIATE RELEASE
+September 15, 2023
+
+SEC Charges Whatever Company with Securities Fraud and Accounting Irregularities
+
+Washington, D.C. - The Securities and Exchange Commission today announced civil enforcement action against Whatever Company for systematic financial reporting violations and fraudulent accounting practices.
+
+Key Details:
+- Estimated Financial Impact: $47.3 million in misreported revenues
+- Violation Period: 2020-2022 
+- Specific Charges: Securities fraud, material misstatement of financial statements
+
+The SEC alleges that Whatever Company executives deliberately manipulated financial records to inflate quarterly performance metrics, creating a false representation of the company&#39;s financial health. Specific irregularities include:
+
+1. Premature revenue recognition
+2. Undisclosed related-party transactions
+3. Systematic concealment of material financial risks
+
+&quot;These actions represent a serious breach of investor trust and fundamental accounting standards,&quot; said SEC Enforcement Director Elena Rodriguez.
+
+Preliminary Enforcement Actions:
+- Immediate trading suspension of company securities
+- Potential monetary penalties up to $75 million
+- Potential individual executive liability proceedings
+
+Whatever Company&#39;s stock price dropped 42% in pre-market trading following the announcement.
+
+The investigation is ongoing, with potential criminal referral to the Department of Justice.
+
+Recommended Compliance Actions:
+- Immediate independent financial audit
+- Board-level governance review
+- Comprehensive internal control reassessment
+
+###]]></description>
+            <pubDate>Sat, 27 Sep 2025 12:41:43 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

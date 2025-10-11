@@ -371,5 +371,39 @@ Additionally, NutriSweet Confectionary Industries is required to implement immed
             <pubDate>Sat, 11 Oct 2025 19:37:25 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760218619915</link>
+            <guid isPermaLink="false">demo-1760218619915</guid>
+            <description><![CDATA[Company Announcement
+(FT. LAUDERDALE, FL) –October 7, 2025 – Trividia Health, Inc., announced today that it is initiating a voluntary recall of a limited number of TRUE METRIX® Self-Monitoring Blood glucose meters co-branded under the Good Neighbor Pharmacy® brand and distributed in the United States.
+
+The company has determined that 601 TRUE METRIX® Meters, lot number KD0746, manufactured September 4, 2025 and distributed September 8, 2025, through September 16, 2025, may have the potential for defective LCD displays that can affect product performance.
+
+It is possible that the LCD display for the affected products may show partial or missing numerical segments or characters or show ghosting (fading) of numerical segments or characters. As a result, it is possible that users could misinterpret a test result or experience a delay in obtaining test results. For users with low glucose (hypoglycemia), this could result in a delay in treatment or therapy decisions.
+
+Trividia Health has not received any reports of patient injuries related to this voluntary recall.
+
+Consumers who believe they have affected product can confirm in one of the following ways:
+
+Call Trividia Health Customer Care Department toll-free at 1-888-835-2723 Monday-Friday 8AM-8PM EST (excluding holidays), our representatives will assist in checking if you have affected Product by looking up your meter’s serial number
+Contact us via email at trividia0925CC@trividiahealth.com so we can connect with you to walk you through how you check your meter’s serial number located on the back of the TRUE METRIX® meter to determine if it is one of the effected meters in lot KD0746
+By checking the lot number (KD0746) printed on the side of the Product’s box
+Visit www.trividiahealth.com/productnoticeExternal Link Disclaimer for a quick search using the meter’s serial number.
+If you have an affected Product, the Trividia Health Customer Care Department will help with return and replacement information.
+
+Consumers may continue to use the TRUE METRIX® Self-Monitoring Blood Glucose System under the Good Neighbor Pharmacy® brand for lots not included in this voluntary recall.
+
+The company is sending notifications to its customers, including pharmacies, mail order companies and distributors where the TRUE METRIX® meters are sold in the United States.
+
+Patient safety is our top priority at Trividia Health. This voluntary recall is being conducted in coordination with the U.S. Food and Drug Administration FDA to quickly resolve this matter.
+
+About Trividia Health
+
+Trividia Health, Inc., is a global health and wellness company based in Fort Lauderdale, Florida and a leading developer, manufacturer and marketer of advanced performance products for people with diabetes. With products sold under TRUE and store brand labels, the company is the exclusive partner and supplier of affordable, high-quality blood glucose monitoring and health and wellness solutions for the world’s leading retail pharmacies, distributors and mail service providers. For more information, please visit: www.TrividiaHealth.comExternal Link Disclaimer.]]></description>
+            <pubDate>Sat, 11 Oct 2025 21:36:59 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

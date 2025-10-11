@@ -282,5 +282,21 @@ The SEC&#x27;s investigation was conducted by the Division of Enforcement&#x27;s
             <pubDate>Sat, 11 Oct 2025 19:27:31 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760210870970</link>
+            <guid isPermaLink="false">demo-1760210870970</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Washington, D.C.
+
+The Securities and Exchange Commission (SEC) today announced a $12.5 million settlement with TechNova Solutions, Inc. for systematic failures in financial reporting and internal control mechanisms. The enforcement action stems from a comprehensive investigation revealing multiple instances of material misstatements in the company&#x27;s quarterly and annual financial disclosures between 2020 and 2022.
+
+Specifically, TechNova Solutions was found to have improperly recognized revenue in its cloud services division, artificially inflating reported earnings by approximately $47.3 million over a three-year period. The company&#x27;s senior financial executives manipulated accounting entries to meet quarterly performance targets, deliberately circumventing established accounting standards and internal compliance protocols. As part of the settlement, TechNova has agreed to a three-year independent monitoring program and will implement comprehensive reforms to its financial reporting processes.
+
+In addition to the monetary penalty, the SEC has barred TechNova&#x27;s former Chief Financial Officer, Michael Reyes, from serving as an officer or director of any publicly traded company for a period of five years. The settlement reflects the Commission&#x27;s ongoing commitment to protecting investor interests and maintaining the integrity of financial markets by holding corporations accountable for systematic reporting violations. TechNova Solutions has neither admitted nor denied the findings but has consented to the SEC&#x27;s order and agreed to cease and desist from further violations.]]></description>
+            <pubDate>Sat, 11 Oct 2025 19:27:50 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

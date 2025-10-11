@@ -298,5 +298,14 @@ In addition to the monetary penalty, the SEC has barred TechNova&#x27;s former C
             <pubDate>Sat, 11 Oct 2025 19:27:50 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Test]]></title>
+            <link>https://example.com/demo/demo-1760210988763</link>
+            <guid isPermaLink="false">demo-1760210988763</guid>
+            <description><![CDATA[Test announcement]]></description>
+            <pubDate>Sat, 11 Oct 2025 19:29:48 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

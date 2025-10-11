@@ -323,5 +323,21 @@ In addition to the monetary penalty, the SEC has barred TechNova&#x27;s former C
             <pubDate>Sat, 11 Oct 2025 19:32:27 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760211195645</link>
+            <guid isPermaLink="false">demo-1760211195645</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Office of Enforcement
+
+The Securities and Exchange Commission today announced a $12.5 million settlement with NexusTech Solutions, Inc. for systematic failures in financial reporting and internal control mechanisms. The enforcement action stems from a comprehensive investigation revealing multiple material misstatements in the company&#x27;s quarterly and annual financial disclosures between 2020 and 2022.
+
+Specifically, NexusTech Solutions was found to have improperly capitalized research and development expenses, artificially inflating its reported earnings by approximately $8.3 million over the three-year period. The company&#x27;s senior financial executives deliberately structured accounting entries to misrepresent the firm&#x27;s financial performance, directly violating Securities Exchange Act reporting requirements and Generally Accepted Accounting Principles (GAAP).
+
+As part of the settlement, NexusTech Solutions will pay a $7.5 million monetary penalty to the SEC and an additional $5 million in disgorgement of improperly obtained financial benefits. The company has also agreed to engage an independent external auditor for a three-year period and implement comprehensive compliance training for its financial reporting personnel. The SEC&#x27;s enforcement action underscores its commitment to maintaining transparency and accountability in corporate financial reporting.]]></description>
+            <pubDate>Sat, 11 Oct 2025 19:33:15 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

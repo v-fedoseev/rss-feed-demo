@@ -355,5 +355,21 @@ As part of the settlement, TechNova has agreed to a comprehensive three-year ind
             <pubDate>Sat, 11 Oct 2025 19:35:54 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760211445769</link>
+            <guid isPermaLink="false">demo-1760211445769</guid>
+            <description><![CDATA[United States Food and Drug Administration
+Office of Compliance and Enforcement
+
+The Food and Drug Administration (FDA) is issuing a formal enforcement action against NutriSweet Confectionary Industries, Inc. for multiple violations of federal food safety regulations and unauthorized product distribution in restricted markets. After a comprehensive investigation spanning six months, the agency has determined that NutriSweet engaged in systematic attempts to circumvent sugar content restrictions in international trade, specifically targeting regulatory frameworks in West African markets.
+
+Investigations revealed that NutriSweet deliberately mislabeled product shipments and utilized complex transnational shipping networks to introduce non-compliant sugar-based candy products into regions with strict nutritional guidelines. The company has been found in violation of the International Food Safety Harmonization Act, with specific infractions related to undeclared sugar content and improper import documentation. As a result, the FDA is imposing a monetary penalty of $3.2 million and mandating a comprehensive third-party audit of the company&#x27;s global supply chain and manufacturing processes.
+
+Additionally, NutriSweet Confectionary Industries is required to implement immediate corrective actions, including the complete recall of all potentially non-compliant product batches distributed between January 2022 and March 2023. The company must submit a detailed remediation plan within 30 days and will be subject to enhanced monitoring and quarterly compliance reviews for the next two years. Failure to meet these requirements may result in further regulatory sanctions, including potential suspension of import privileges.]]></description>
+            <pubDate>Sat, 11 Oct 2025 19:37:25 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

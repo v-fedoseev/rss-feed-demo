@@ -264,5 +264,23 @@ The SEC&#x27;s investigation was conducted by the Division of Enforcement&#x27;s
             <pubDate>Sat, 11 Oct 2025 19:23:06 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760210851975</link>
+            <guid isPermaLink="false">demo-1760210851975</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Office of Enforcement
+
+The Securities and Exchange Commission today announced a $12.5 million civil penalty against Horizon Global Technologies, Inc. for systematic failures in financial reporting and internal control mechanisms. The enforcement action stems from a comprehensive investigation revealing multiple instances of material misstatements in the company&#x27;s quarterly and annual financial disclosures between 2020 and 2022.
+
+Specific violations include improper revenue recognition practices, deliberate underreporting of operational expenses, and failure to maintain adequate internal accounting controls as required under Section 13(b) of the Securities Exchange Act. Horizon Global Technologies&#x27; senior financial leadership, including former Chief Financial Officer Elena Rodriguez, systematically manipulated financial statements to artificially inflate the company&#x27;s reported earnings and market valuation.
+
+As part of the settlement, Horizon Global Technologies has agreed to a three-year independent compliance monitoring program and must implement comprehensive reforms to its financial reporting processes. The company will also be required to replace its entire financial reporting leadership team and submit quarterly compliance reports to the SEC. The penalty reflects the Commission&#x27;s commitment to maintaining market integrity and protecting investor interests through rigorous enforcement of securities regulations.
+
+The SEC&#x27;s investigation was conducted by the Division of Enforcement&#x27;s Financial Reporting and Audit Group, with significant cooperation from the agency&#x27;s Los Angeles regional office. Investors with concerns about potential financial misconduct are encouraged to contact the SEC&#x27;s Office of Investor Education and Advocacy.]]></description>
+            <pubDate>Sat, 11 Oct 2025 19:27:31 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

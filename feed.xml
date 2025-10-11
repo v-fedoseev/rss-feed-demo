@@ -339,5 +339,21 @@ As part of the settlement, NexusTech Solutions will pay a $7.5 million monetary 
             <pubDate>Sat, 11 Oct 2025 19:33:15 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760211354960</link>
+            <guid isPermaLink="false">demo-1760211354960</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Washington, D.C.
+
+The Securities and Exchange Commission (SEC) today announced a $12.5 million civil penalty against TechNova Solutions, Inc. for systemic failures in financial reporting and internal control mechanisms. Following a comprehensive investigation spanning 18 months, the SEC determined that TechNova deliberately misrepresented revenue recognition practices between 2020 and 2022, materially overstating quarterly earnings by approximately $47.3 million.
+
+Specifically, the enforcement action found that TechNova&#x27;s senior executive team, including former Chief Financial Officer Marcus Reeland, engaged in a pattern of improper accounting practices designed to inflate the company&#x27;s financial performance. The violations included premature revenue recognition, inappropriate capitalization of development expenses, and failure to maintain accurate financial records in compliance with Generally Accepted Accounting Principles (GAAP).
+
+As part of the settlement, TechNova has agreed to a comprehensive three-year independent monitoring program and must implement substantial improvements to its internal financial controls. The company will be required to engage an independent auditor to conduct quarterly reviews and submit detailed compliance reports to the SEC. Additionally, Marcus Reeland has been permanently barred from serving as an officer or director of any publicly traded company. The penalty reflects the SEC&#x27;s commitment to maintaining market integrity and protecting investor interests through rigorous enforcement of securities regulations.]]></description>
+            <pubDate>Sat, 11 Oct 2025 19:35:54 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

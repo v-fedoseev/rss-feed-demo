@@ -496,5 +496,51 @@ The Commission emphasizes that this enforcement action underscores its commitmen
             <pubDate>Sun, 12 Oct 2025 21:39:47 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760306049016</link>
+            <guid isPermaLink="false">demo-1760306049016</guid>
+            <description><![CDATA[This communication is part of the Communications Pilot to Enhance the Medical Device Recall Program. This recall involves removing certain devices from where they are used or sold. The FDA has identified this recall as the most serious type. This device may cause serious injury or death if you continue to use it. The affected products, recommendations for what to do with the devices, and reason for alert below have significant updates.
+
+Affected Product
+The BD Alaris Pump Module
+The FDA is aware that BD and their subsidiary CareFusion have issued two “Urgent Medical Device Recall (Correction)” letters notifying affected customers of worse performance, under certain use cases, for the BD Alaris Pump Module model 8100 (pump module) when used with a subset of compatible pump infusion sets. The most recent letter includes additional affected devices, corrective actions, and risk information. New or modified information is marked as “(Updated)” throughout this alert. 
+
+Full List of Affected Devices
+What to Do
+(Updated) Clinically appropriate alternate sets should be used and prioritized for use in critical-care, neo-natal, infant, and pediatric care areas. BD’s full customer letterExternal Link Disclaimer is available on their website.
+
+(Updated) On July 8 and September 11, BD sent all affected customers letters recommending actions. BD’s current recommendations are as follows:
+
+(Updated) Review your inventory to identify the affected infusion sets.
+(Updated) If alternate BD Alaris Pump infusion sets specific to the use case are available and clinically appropriate, these should be utilized. If alternate sets are limited in quantity, they should be prioritized for use in critical-care, neonatal, infant, and pediatric care areas.
+Affected Set Model/Reference #
+BD Alternative Sets
+24010-0007T	10013361T
+24001-0007	11426964
+10863358	2203-0500
+10013186, 2452-0007, 10015414 (Discontinued)	2426-0007, 10062818
+10013037 (Discontinued)	2477-0007
+2410-0500 (Discontinued)	2420-0007
+24201-0007, 2426-0500 (Discontinued)	2426-0007
+(Updated) If no alternate infusion sets are available or clinically appropriate, consider using the BD Alaris Syringe Module instead of the BD Alaris Pump Module (or alternative syringe pump if Alaris is not available).
+(Updated) If no alternate BD Alaris Pump infusion sets and no syringe pumps are available, the recalled pump infusion sets may be utilized with caution and enhanced clinical monitoring, while implementing the Risk Mitigation steps from the v12.3 Alaris Infusion System User Manual and summarized below.
+(Updated) If needed, contact BD Clinical Consultants to help with identifying alternative sets, help review customer’s infusion data analytics, and quantify types of infusions infused with specific rate types.
+(Updated) Additional risk mitigations include:
+(Updated) Rate and Bolus Accuracy: avoid hanging the solution container below the pump module, or higher than 21 inches above the top of the pump module.
+(Updated) Time to Alarm (TTA): When loading the set ensure tubing is directly over the pressure sensors. Ensure all clamps are open; there are no kinks or collapses in the tubing outside of the pump; drops are flowing in the drip chamber. Ensure the vent is open if applicable. Avoid using Selectable pressure mode with a setting above 50 mmHg for rates less than 10 mL/h.
+(Updated) Post Occlusion Bolus Volume (POBV): When addressing an occlusion (clearing) ensure that the fluid flow to patient is OFF. Disconnect the tubing to relieve excess pressure through a stopcock if present. Weigh the risks of disconnection with the risks of an unintended bolus. 
+The following actions should be considered for the 0.2-micron in-line filter infusion set:
+Ensure all clamps are open; there are no kinks or collapses in the tubing outside of the pump; drops are flowing in the drip chamber. 
+Avoid infusion flow rates below 1 mL/h. 
+Avoid using Selectable pressure mode with a setting above 50 mmHg for rates less than 10 mL/h.  
+Refer to Table 1 for the new set performance data as compared to the existing set performance data found in your User Manuals.
+Post this Customer Notification on or near the affected products. If you experience any issues, contact BD at productcomplaints@bd.com
+(Updated) For distributors, provide this notice to all customers who may have purchased an Alaris Pump Module.  
+Circulate this notice within your facility network to ensure that all concerned personnel are made aware of this issue.]]></description>
+            <pubDate>Sun, 12 Oct 2025 21:54:09 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

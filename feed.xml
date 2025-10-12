@@ -460,5 +460,23 @@ The SEC’s investigation was conducted by Jonathan T. Menitove of the Enforceme
             <pubDate>Sun, 12 Oct 2025 10:59:01 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760302473451</link>
+            <guid isPermaLink="false">demo-1760302473451</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Office of Enforcement
+
+The Securities and Exchange Commission today announced a $12.5 million civil penalty against TechNova Systems, Inc. for systematic failures in financial reporting and internal control mechanisms. The enforcement action stems from a comprehensive investigation revealing multiple instances of material misstatements in the company&#x27;s quarterly and annual financial disclosures between 2020 and 2022.
+
+Specific violations include improper revenue recognition practices, deliberate underreporting of operating expenses, and failure to maintain adequate internal accounting controls as required under Section 13(b) of the Securities Exchange Act. TechNova Systems&#x27; senior financial leadership, including former Chief Financial Officer Marcus Reyes, systematically manipulated financial statements to present a more favorable view of the company&#x27;s financial performance to investors and market analysts.
+
+As part of the settlement, TechNova Systems has agreed to engage an independent compliance monitor for a three-year period and implement comprehensive remedial measures to address identified control weaknesses. The company must also provide quarterly certifications to the SEC detailing its compliance efforts. In addition to the monetary penalty, three senior executives have been permanently barred from serving as officers or directors of publicly traded companies.
+
+The SEC remains committed to protecting investor interests and maintaining the integrity of financial markets by holding corporations accountable for transparent and accurate financial reporting. This enforcement action serves as a clear signal that deliberate financial misconduct will be vigorously investigated and appropriately sanctioned.]]></description>
+            <pubDate>Sun, 12 Oct 2025 20:54:33 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

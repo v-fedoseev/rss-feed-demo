@@ -478,5 +478,23 @@ The SEC remains committed to protecting investor interests and maintaining the i
             <pubDate>Sun, 12 Oct 2025 20:54:33 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760305187573</link>
+            <guid isPermaLink="false">demo-1760305187573</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Office of Enforcement
+
+The Securities and Exchange Commission today announced a $12.5 million settlement with NexusTech Innovations, Inc. for multiple violations of disclosure and financial reporting regulations. The enforcement action stems from a comprehensive investigation revealing systematic misrepresentations in the company&#x27;s quarterly and annual financial statements between 2021 and 2022.
+
+Specifically, NexusTech Innovations was found to have materially misstated its research and development expenditures, artificially inflating reported R&amp;D investments by approximately $8.3 million over a 24-month period. The company&#x27;s senior financial executives deliberately manipulated accounting entries to create the appearance of higher technology development spending, which directly impacted investor perceptions of the company&#x27;s technological capabilities and strategic investments.
+
+As part of the settlement, NexusTech Innovations will pay a $12.5 million penalty, which will be deposited into a fair fund for the benefit of affected shareholders. The company has also agreed to engage an independent compliance monitor for a three-year period and to implement comprehensive internal control improvements. Additionally, the SEC has barred the company&#x27;s former Chief Financial Officer, Michael Reese, from serving as an officer or director of a public company for a period of five years.
+
+The Commission emphasizes that this enforcement action underscores its commitment to maintaining market transparency and protecting investor interests through rigorous oversight of corporate financial reporting practices. Publicly traded companies are reminded of their fundamental obligation to provide accurate and complete financial disclosures.]]></description>
+            <pubDate>Sun, 12 Oct 2025 21:39:47 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

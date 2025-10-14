@@ -567,5 +567,34 @@ The SEC’s investigation was conducted by Heather L. Shaffer, Ming Ming Yang, a
             <pubDate>Mon, 13 Oct 2025 17:34:14 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760473299008</link>
+            <guid isPermaLink="false">demo-1760473299008</guid>
+            <description><![CDATA[FDA Approves Labeling Changes that Include a Boxed Warning for Immune Effector Cell-associated Enterocolitis Following Treatment with Ciltacabtagene Autoleucel (CARVYKTI, Janssen Biotech, Inc.)
+Medical Product Safety Information
+Drug Safety-related Labeling Changes
+MedWatch Forms for FDA Safety Reporting
+AUDIENCE: Patient, Health Care Professional, Pharmacy, Gastroenterology
+
+ISSUE: The FDA has received reports of immune effector cell-associated enterocolitis (IEC-EC) in patients who received treatment with CARVYKTI. Reports were received from clinical trials and postmarketing adverse event data. Patients with IEC-EC presented with severe or prolonged diarrhea, abdominal pain, and weight loss requiring total parenteral nutrition. IEC-EC occurred weeks to months following CARVYKTI infusion. In addition to supportive care and total parenteral nutritional, treatment with various immunosuppressive therapies including corticosteroids were required. IEC-EC was associated with fatal outcomes from gut perforation and sepsis.
+
+FDA has approved updates to the Clinical Studies section of the prescribing information to include overall survival (OS) data from CARTITUDE-4 trial, a randomized, open-label, multicenter controlled study in adult patients with relapsed and lenalidomide-refractory multiple myeloma, who previously received at least 1 prior line of therapy including a proteasome inhibitor and an immunomodulatory agent. With an estimated median follow-up of 33.6 months, a prespecified second interim analysis showed a statistically significant improvement in OS in the CARVYKTI arm compared to the standard therapy arm.
+
+FDA has determined that the overall benefit of CARVYKTI continues to outweigh the potential risks for the approved use, including overall survival benefit in patients treated with CARVYKTI.
+
+Continuous monitoring and assessment of the safety of all biologics, including CARVYKTI, is an FDA priority and we remain committed to informing the public when we learn new information about these products.
+
+BACKGROUND: FDA has completed the review of data from the clinical trial and the postmarketing adverse event reports, and has approved updates to the Boxed Warning (also known as Black Box Warning), Warnings and Precautions, and Adverse Reactions – Postmarketing Experience sections of the prescribing information and Medication Guide to include the risk of IEC-EC.
+
+RECOMMENDATIONS: 
+
+Patients and clinical trial participants with IEC-EC should be managed according to the institutional guidelines including referral to gastroenterology and infectious disease specialists.
+
+In patients with treatment refractory IEC-EC, additional work up should be considered to rule out T cell lymphoma of the gastrointestinal tract which has been reported in patients with treatment refractory IEC-EC in the postmarketing setting.]]></description>
+            <pubDate>Tue, 14 Oct 2025 20:21:39 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

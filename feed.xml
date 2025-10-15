@@ -64,5 +64,21 @@ Consumers who have the recalled salad kit should discard it immediately and not 
             <pubDate>Wed, 15 Oct 2025 20:33:25 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760561133344</link>
+            <guid isPermaLink="false">demo-1760561133344</guid>
+            <description><![CDATA[United States Securities and Exchange Commission
+Washington, D.C.
+
+The Securities and Exchange Commission (SEC) today announced a civil enforcement action against NexusTech Innovations, Inc. for multiple violations of securities disclosure regulations and financial reporting standards. After a comprehensive investigation spanning 18 months, the SEC has determined that NexusTech systematically misrepresented its financial performance between 2021 and 2022, artificially inflating revenue projections and concealing material weaknesses in internal accounting controls.
+
+The enforcement action results in a $12.5 million monetary penalty against NexusTech, with $8.3 million to be paid directly to the U.S. Treasury and $4.2 million allocated for investor restitution. Additionally, the company&#x27;s Chief Financial Officer, Marcus Reiner, has been permanently barred from serving as an officer or director of a publicly traded company. The SEC&#x27;s findings revealed that Reiner knowingly authorized the submission of false quarterly reports that overstated the company&#x27;s cloud computing service revenue by approximately 37% during the specified period.
+
+As part of the settlement, NexusTech must engage an independent third-party auditor to review and validate its financial reporting processes for the next three consecutive fiscal years. The company must also implement comprehensive compliance training for all senior financial personnel and establish enhanced internal control mechanisms to prevent future reporting irregularities. The SEC emphasizes that this action demonstrates its ongoing commitment to protecting investor interests and maintaining the integrity of public financial markets.]]></description>
+            <pubDate>Wed, 15 Oct 2025 20:45:33 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

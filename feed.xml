@@ -153,5 +153,398 @@ This recall is being made with the knowledge of the U.S. Food and Drug Administr
             <pubDate>Thu, 16 Oct 2025 18:27:35 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760639653597</link>
+            <guid isPermaLink="false">demo-1760639653597</guid>
+            <description><![CDATA[Affected Product
+Defibrillation Lead
+The FDA is aware that Boston Scientific has issued a letter notifying affected customers that certain ENDOTAK RELIANCE Defibrillation leads with expanded polytetrafluoroethylene (ePTFE) coated coils may impact shock efficacy and/or require early replacement.
+
+Product Name
+
+ Model
+
+Coil(s) 	
+Terminal
+
+ENDOTAK RELIANCE
+
+0160
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0161
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0162
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0164
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0165
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0166
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0167
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0170
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0171
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0172
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0173
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0174
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0175
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0176
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0177
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0180
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0181
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0182
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0183
+
+SC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0184
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0185
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0186
+
+DC
+
+DF-1
+
+ENDOTAK RELIANCE
+
+0187
+
+DC
+
+DF-1
+
+RELIANCE 4-SITE
+
+0282
+
+SC
+
+DF-1
+
+RELIANCE 4-SITE
+
+0283
+
+SC
+
+DF4
+
+RELIANCE 4-SITE
+
+0285
+
+DC
+
+DF4
+
+RELIANCE 4-SITE
+
+0286
+
+DC
+
+DF4
+
+RELIANCE 4-SITE
+
+0292
+
+SC
+
+DF4
+
+RELIANCE 4-SITE
+
+0293
+
+SC
+
+DF4
+
+RELIANCE 4-SITE
+
+0295
+
+DC
+
+DF4
+
+RELIANCE 4-SITE
+
+0296
+
+DC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0657
+
+SC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0658
+
+DC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0682
+
+SC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0653
+
+SC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0685
+
+DC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0686
+
+DC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0692
+
+SC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0693
+
+SC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0695
+
+DC
+
+DF4
+
+RELIANCE 4-FRONT
+
+0696
+
+DC
+
+DF4
+
+What to Do
+Boston Scientific recommends that healthcare providers monitor the impedance of defibrillation leads with ePTFE coating because of a risk of tissue ingrowth and calcification. Replacement of leads with impedance over 150 ohms is recommended to avoid defibrillation shock failures.
+
+On July 24, Boston Scientific sent all affected healthcare providers a letter recommending the following actions:
+Continue routine follow-up of defibrillation systems with ePTFE leads either via in-person or remote monitoring (RM) per labeling or medical guidelines with consideration that RM can facilitate early detection of this pattern. 
+During routine follow-up of affected leads, determine the most recent approximate 28-day average low voltage shock impedance (LVSI) that has not been influenced by the delivery of a shock and review high voltage shock impedance (HVSI) for all shocks from the most recent episode since the last system check using the criteria and data provided in the physician letter. 
+The firm recommends programming devices to Initial (RV-) shock polarity and all shocks to maximum energy in single coil leads with a 28-day average LVSI greater than 90 ohms and in dual coil leads with a 28-day average LVSI greater than 70 ohms.
+Leads with impedance over 150 ohms should be considered for replacement because impedance over 150 ohms has been associated with as much as a 1 in 10 risk that life-saving defibrillation shocks will fail due to reduced shock energy delivery. If lead replacement is planned, carefully consider the risk/benefit of lead extraction versus abandonment. Based on implant time and likely coil calcification, these leads may pose an increased risk of extraction-related complications.
+If lead replacement is planned, carefully consider the risk/benefit of lead extraction versus abandonment. Based on implant time and likely coil calcification, these leads may pose an increased risk of extraction-related complications. 
+Be aware of the following to aid in risk mitigation and clinical decision making:
+When managing leads with calcified coils, delivery of commanded shocks will not permanently mitigate rising impedance risk, nor will it be predictive of future impedance. LVSI may initially decrease but typically returns to pre-shock values in less than six months. 
+While cracking of calcified ePTFE coating has been observed, calcification of the shock coils does not compromise the physical or electrical integrity of the lead.
+A trend of gradually rising LVSI correlates with shock coil calcification and is more prevalent with BSC RELIANCE ePTFE defibrillation leads compared to non-ePTFE defibrillation leads from BSC and other manufacturers. Leads may be implanted for eight or more years before this trend appears. 
+Reversed (RV+) shock polarity has shown an elevated HVSI compared to Initial (RV-) shock polarity in leads with the encapsulant material. Defibrillation systems programmed to Reversed (RV+) polarity exhibiting a gradual rising LVSI have a lower shock success rate.
+There may be circumstances such as routine defibrillator replacement that merit complex decision making. Contact BSC Technical Services for further assistance if necessary. 
+Distribute the provided letter to all healthcare professionals (HCPs) within your organization who need to be informed and include this letter in the patient’s medical record.
+A patient letter is available, which can be distributed to the patient.
+Reason for Alert
+Boston Scientific is aware of the association of calcified defibrillation lead coil(s) with a pattern of gradually rising LVSI measurements. This calcification phenomenon can biologically encapsulate and electrically insulate the defibrillation lead coil(s), causing failure to deliver the full, intended shock energy, which may fail to restore normal rhythm during cardiac arrest. 
+
+The most common harm is early lead replacement, and the most serious harm is death or need for cardiac resuscitation.
+
+As of July 24, Boston Scientific has reported 386 serious injuries and 16 patient deaths associated with this issue.
+
+Device Use
+Boston Scientific ENDOTAK RELIANCE leads are intended for pacing, rate-sensing, and delivery of cardioversion and defibrillation shocks when used with a compatible pulse generator.
+
+Contact Information
+Customers in the U.S. with adverse reactions, quality problems, or questions about this recall should contact Boston Scientific at tech.services@bsci.com or 1-800-227-3422.
+
+Additional FDA Resources
+FDA’s Enforcement Report
+Medical Device Recall Database
+Additional Company Resources
+Company-provided information is posted here by the FDA as a public service.  
+
+Boston Scientific Important Medical Device Information LetterExternal Link Disclaimer [07/24/2025] 
+Boston Scientific Patient LetterExternal Link Disclaimer [07/2025]
+Unique Device Identifier (UDI)
+The unique device identifier (UDI) helps identify individual medical devices sold in the United States from manufacturing through distribution to patient use. The UDI allows for more accurate reporting, reviewing, and analyzing of adverse event reports so that devices can be identified, and problems potentially corrected more quickly.
+
+How do I recognize a UDI on a label?
+AccessGUDID database - Identify Your Medical Device
+Benefits of a UDI System
+How do I report a problem?
+Health care professionals and consumers may report adverse reactions or quality problems they experienced using these devices to MedWatch: The FDA Safety Information and Adverse Event Reporting Program.]]></description>
+            <pubDate>Thu, 16 Oct 2025 18:34:13 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>

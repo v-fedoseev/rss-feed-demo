@@ -566,5 +566,45 @@ Consumers who have purchased ice cream from any of the locations listed above ar
             <pubDate>Thu, 16 Oct 2025 18:36:45 GMT</pubDate>
             <category>Regulatory</category>
         </item>
+    
+        <item>
+            <title><![CDATA[Demo Regulatory Announcement]]></title>
+            <link>https://example.com/demo/demo-1760696223014</link>
+            <guid isPermaLink="false">demo-1760696223014</guid>
+            <description><![CDATA[REGULATORY ENFORCEMENT ACTION PRESS RELEASE
+
+FOR IMMEDIATE RELEASE
+U.S. Securities and Exchange Commission
+Washington, D.C.
+
+SEC Charges McDonald&#39;s Corporation with Financial Reporting Irregularities
+
+The U.S. Securities and Exchange Commission today announced civil enforcement proceedings against McDonald&#39;s Corporation for material misstatements and accounting control deficiencies related to international financial reporting.
+
+Key Details:
+- Investigation uncovered systematic revenue recognition discrepancies in McDonald&#39;s international franchise reporting
+- Estimated financial misstatement of approximately $87.3 million across fiscal years 2018-2020
+- Potential violations of Securities Exchange Act Section 13(a)
+
+Proposed Sanctions:
+- $42.5 million civil monetary penalty
+- Mandatory independent compliance monitor for 3-year period
+- Required restatement of previously filed financial statements
+
+SEC Enforcement Director Michael Chen stated, &quot;These actions demonstrate our commitment to ensuring transparent and accurate financial disclosure across all corporate reporting.&quot;
+
+McDonald&#39;s has indicated it will cooperate fully with the investigation and has already begun internal remediation processes.
+
+The case number is SEC-ENF-2023-1742, filed in U.S. District Court for the District of Columbia.
+
+Press Contact:
+SEC Office of Public Affairs
+(202) 555-4378
+pressoffice@sec.gov
+
+###]]></description>
+            <pubDate>Fri, 17 Oct 2025 10:17:03 GMT</pubDate>
+            <category>Regulatory</category>
+        </item>
     </channel>
 </rss>
